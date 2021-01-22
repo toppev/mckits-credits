@@ -1,0 +1,9 @@
+database:
+  # WARNING: if not enabled, credits are not saved!
+  enabled: false
+  host: localhost
+  port: 3306
+  user: root
+  password: asdasd
+  db-name: mckits
+store-items: []

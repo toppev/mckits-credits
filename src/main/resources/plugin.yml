@@ -1,0 +1,10 @@
+main: fi.mckits.credits.McKitsCredits
+version: 0.1.0
+name: McKitsCredits
+author: Toppe5
+depend: [StrikePractice, PlaceholderAPI]
+commands:
+  mckitscredits:
+    aliases: [credits, koliket, kolikot, rahet, rahat, krediitit]
+  creditshop:
+    aliases: [krediittikauppa]
